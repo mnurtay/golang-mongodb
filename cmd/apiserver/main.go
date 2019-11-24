@@ -5,7 +5,7 @@ import (
 	"log"
 
 	"github.com/BurntSushi/toml"
-	"github.com/nurtaims/golang-mongodb/app/apiserver"
+	"github.com/nurtaims/golang-mongodb/src/app/apiserver"
 )
 
 var (
